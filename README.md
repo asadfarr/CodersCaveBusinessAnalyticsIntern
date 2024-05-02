@@ -1,9 +1,9 @@
 # CodersCaveBusinessAnalyticsIntern
-Phase 2 :  Golden Task - <b> Evaluate the ROI of marketing campaigns </b>
+Phase 2 :  Normal Task - <b> Customer Sentiment Analysis and Feedback Insights </b>
 <br>
-Build a robust Marketing Campaign ROI Evaluation System that allows
-businesses to assess the effectiveness of their marketing efforts and
-optimize their strategies. The objective is to create a comprehensive tool
-that analyzes various marketing channels, measures key performance
-indicators (KPIs), and calculates the return on investment (ROI) to inform
-data-driven decision-making.
+Create a powerful Customer Sentiment Analysis system that delves into
+customer reviews to decipher sentiments, extract valuable insights, and
+pinpoint areas for improvement. The goal is to leverage natural language
+processing (NLP) techniques to gain a deep understanding of customer
+sentiments expressed in reviews, helping businesses enhance customer
+satisfaction and refine their products or services.
